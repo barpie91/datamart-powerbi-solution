@@ -1,0 +1,19 @@
+# Power BI
+*.pbix
+*.rdl
+
+# Temporary files
+~$*
+*.tmp
+*.bak
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+
+# System files
+.DS_Store
+Thumbs.db
